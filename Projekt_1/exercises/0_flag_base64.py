@@ -1,4 +1,4 @@
-# Skorzystaj z biblioteki (modułu) base64 oraz funkcji b64decode aby ją zdekodować.
+# Skorzystaj z biblioteki (modułu) base64 oraz funkcji b64decode aby ją zdekodować. 
 
 import base64
 

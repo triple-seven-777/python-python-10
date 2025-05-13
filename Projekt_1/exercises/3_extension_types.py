@@ -6,10 +6,7 @@ code.py
 moarcode.py
 website.html
 podkatalog/
-2025 © HexArcana Cybersecurity GmbH
-Praktyczny Python
-Projekt 1
-(wersja: Maj-Lipiec'25)
+
 podkatalog/asdf.txt
 program powinien wypisać (w dowolnej kolejności):
 .py

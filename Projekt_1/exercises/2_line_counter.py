@@ -1,4 +1,4 @@
-"""Bęzie to najprostszy program, ktory zlicza linie w pliku tekstowym."""
+# Będzie to najprostszy program, ktory zlicza linie w pliku tekstowym.
 
 import sys
 import os
@@ -6,17 +6,6 @@ import os
 FILE = r"C:\Tomek\kursy_i_szkolenia\python\gynvael_python_10\Projekt_1\exercises\flag_base64.py"
 
 def count_lines_in_file(file_path):
-    """
-    Zlicza linie w pliku tekstowym, pomijając:
-    - puste linie
-    - linie zawierające tylko komentarz jednoliniowy
-    
-    Args:
-        file_path (str): Ścieżka do pliku tekstowego.
-    
-    Returns:
-        int: Liczba niepustych, niekomentarzowych linii w pliku.
-    """
     try:
         with open(file_path, 'r') as file:
             # Zliczanie tylko niepustych linii, które nie są tylko komentarzami

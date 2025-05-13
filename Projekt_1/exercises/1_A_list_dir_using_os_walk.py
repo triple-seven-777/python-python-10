@@ -11,14 +11,11 @@ print(f"Path: {path}")
 
 Skorzystaj z os.walk()
 
-===== ZROBIONE =====
-
 mozliwe iteracje:
 - pytanie o katalog (bezposrednio w konsoli lub innym sposobem(?))
 - podzial plikow na katalogi i pliki
 - zliczanie plikow i katalogow
 - zliczanie plikow i katalogow w danym katalogu
-
 """
 
 

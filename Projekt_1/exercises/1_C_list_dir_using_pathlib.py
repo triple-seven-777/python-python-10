@@ -10,8 +10,6 @@ path = sys.argv[1]
 print(f"Path: {path}")
 
 Skorzystaj z metody pathlib.Path(ścieżka).rglob('*') 
-
-===== ZROBIONE =====
 """
 
 import sys

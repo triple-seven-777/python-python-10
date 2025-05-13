@@ -13,9 +13,6 @@ Skorzystaj z metod manualnych (rekursywnych) przechodząc drzewo katalogów; kil
 os.listdir(ścieżka) LUB glob.glob("ścieżka/*") 
 os.path.isdir 
 os.path.isfile 
-
-===== ZROBIONE =====
-
 """
 
 import sys
